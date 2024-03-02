@@ -7,9 +7,9 @@ import setuptools
 __version__ = "0.0.0"
 
 REPO_NAME = "Kidney-Disease-Classification-Deep-Learning-Project"
-AUTHOR_USER_NAME = "krishnaik06"
+AUTHOR_USER_NAME = "Mannarukoushik"
 SRC_REPO = "cnnClassifier"
-AUTHOR_EMAIL = "entbappy73@gmail.com"
+AUTHOR_EMAIL = "mannarukoushik@gmail.com"
 
 
 setuptools.setup(
